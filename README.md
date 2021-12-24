@@ -9,8 +9,6 @@ The basic aim of the project is to detect the presence of a face mask on human f
 
 Alongside this, we have used basic concepts of transfer learning in neural networks to finally output presence or absence of a face mask in a video stream. 
 
-![Transfer Learning](images/Transfer-Learning.png)
-
 <p align="center" width="100%">
     <img width="65%" src="images/Transfer-Learning.png">
 </p>
@@ -19,14 +17,11 @@ Alongside this, we have used basic concepts of transfer learning in neural netwo
 Experimental results show that our model performs well on the test data with more than 99% precision and recall.
 
 ### Classification Report -
-![Classification Report](images/classification-report.png)
-
 <p align="center" width="100%">
     <img width="65%" src="images/classification-report.png">
 </p>
 
 ### Learning Plot -
-![Deep Learning](images/plot.png)
 <p align="center" width="100%">
     <img width="65%" src="images/plot.png">
 </p>
