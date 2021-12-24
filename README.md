@@ -5,7 +5,7 @@ The basic aim of the project is to detect the presence of a face mask on human f
 ![Deep Learning](images/Neural-Network.png)
 
 <p align="center" width="100%">
-    <img width="100%" src="images/Neural-Network.png">
+    <img width="60%" src="images/Neural-Network.png">
 </p>
 
 Alongside this, we have used basic concepts of transfer learning in neural networks to finally output presence or absence of a face mask in a video stream. 
